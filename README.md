@@ -45,9 +45,11 @@ Contains only:
 * autohide-bars.svg
 
 ## Diagnostic
-Open Browser Console:
-CTRL + SHIFT + J
-Run:
+
+Open Browser Console:<br>
+CTRL + SHIFT + J<br>
+Run:<br>
+
 ```js
 FirefoxAutoHideToolboxStatus()
 ```
