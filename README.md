@@ -14,10 +14,10 @@ This project is based on userChromeJS/userChrome.css and integrates with fx-auto
 
 ## Screenshots
 
-### Toolbar button
+### Toolbar button OFF (Auto-hide disabled)
 ![Toolbar button OFF](screenshots/button-off.png)
 
-### Auto-hide enabled
+### Toolbar button ON (Auto-hide enabled)
 ![Toolbar button ON](screenshots/button-on.png)
 
 ## Requirements
@@ -28,6 +28,9 @@ Official project:
 https://github.com/MrOtherGuy/fx-autoconfig
 
 ## Downloads
+
+Download the latest release here:
+https://github.com/John2022/firefox-auto-hide-toolbars/releases/latest
 
 ### Full package
 Recommended for most users.
