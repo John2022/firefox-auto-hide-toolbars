@@ -13,7 +13,6 @@ This project is based on userChromeJS/userChrome.css and integrates with fx-auto
 * Diagnostic command available from Browser Console
 
 ## Screenshots
-
 ### Toolbar button OFF (Auto-hide disabled)
 ![Toolbar button OFF](screenshots/button-off.png)
 
@@ -28,7 +27,6 @@ Official project:
 https://github.com/MrOtherGuy/fx-autoconfig
 
 ## Downloads
-
 Download the latest release here:
 https://github.com/John2022/firefox-auto-hide-toolbars/releases/latest
 
@@ -53,6 +51,11 @@ Run:
 ```js
 FirefoxAutoHideToolboxStatus()
 ```
+
+## Mozilla Connect Idea
+A related feature request has been posted on Mozilla Connect:
+https://connect.mozilla.org/t5/ideas/add-a-native-toolbar-auto-hide-toggle-to-firefox/idi-p/127686
+The GitHub project is only a proof of concept. The Mozilla Connect idea suggests adding this behavior natively to Firefox.
 
 ## Credits
 Based on:
